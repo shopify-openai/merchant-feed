@@ -1,4 +1,4 @@
-// Carica le variabili da .env (es. SHOPIFY_STORE, SHOPIFY_ACCESS_TOKEN_FEED)
+// Carica le variabili da .env (es. SHOPIFY_STORE, SHOPIFY_ACCESS_TOKEN_FEED
 require('dotenv').config();
 
 // Inizializza Express
